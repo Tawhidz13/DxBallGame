@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Android\\DxBall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Android\\DxBall\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Android\\DxBall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\scores.xml",
+        "source": "C:\\Android\\DxBall\\app\\src\\main\\res\\layout\\scores.xml"
+    },
+    {
+        "merged": "C:\\Android\\DxBall\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gameover.xml",
+        "source": "C:\\Android\\DxBall\\app\\src\\main\\res\\layout\\gameover.xml"
+    }
+]

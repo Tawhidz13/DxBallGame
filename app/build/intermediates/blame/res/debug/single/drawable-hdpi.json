@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Android\\DxBall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher_foreground.png",
+        "source": "C:\\Android\\DxBall\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Android\\DxBall\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Android\\DxBall\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

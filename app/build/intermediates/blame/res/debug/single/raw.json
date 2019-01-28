@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Android\\DxBall\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gunfire.wav",
+        "source": "C:\\Android\\DxBall\\app\\src\\main\\res\\raw\\gunfire.wav"
+    },
+    {
+        "merged": "C:\\Android\\DxBall\\app\\build\\intermediates\\res\\merged\\debug\\raw\\fade.mp3",
+        "source": "C:\\Android\\DxBall\\app\\src\\main\\res\\raw\\fade.mp3"
+    },
+    {
+        "merged": "C:\\Android\\DxBall\\app\\build\\intermediates\\res\\merged\\debug\\raw\\green.wav",
+        "source": "C:\\Android\\DxBall\\app\\src\\main\\res\\raw\\green.wav"
+    },
+    {
+        "merged": "C:\\Android\\DxBall\\app\\build\\intermediates\\res\\merged\\debug\\raw\\red.wav",
+        "source": "C:\\Android\\DxBall\\app\\src\\main\\res\\raw\\red.wav"
+    }
+]
